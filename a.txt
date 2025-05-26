@@ -1,5 +1,5 @@
 It is a first file gor GIT.
-Add a line.
+Add lines.
 Add one more line.
 Add a formuls 1 + 2 = 3.
 Add a greeting Hello!
