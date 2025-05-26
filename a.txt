@@ -1,3 +1,4 @@
 It is a first file gor GIT.
 Add a line.
 Add one more line.
+Add a formuls 1 + 2 = 3.
